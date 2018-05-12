@@ -1,0 +1,30 @@
+_repo: '---_25287'
+_version: 0.1.0
+alternative_title: Xu shi shuo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kong, Pingzhong
+    aliases:
+    - 孔平仲
+    - Kong, Yifu
+    birthdate: 1044
+    deathdate: 1111
+    gutenberg_agent_id: '31217'
+    url: http://www.gutenberg.org/2009/agents/31217
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25287'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Anecdotes'
+- !lcc 'AC'
+title: 續世說
+url: http://www.gutenberg.org/ebooks/25287
